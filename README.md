@@ -140,6 +140,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 </details>
 
+
+
 <!--
   <<< Author notes: Step 4 >>>
   Start this step by acknowledging the previous step.
@@ -193,6 +195,9 @@ GitHub Actions went ahead and made a branch for you. So you'll need to add to th
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 <details id=5>
 <summary><h2>Step 5: Merge your pull request</h2></summary>
