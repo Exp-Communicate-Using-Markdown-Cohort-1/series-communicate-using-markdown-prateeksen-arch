@@ -98,6 +98,9 @@ Let's add an image. Include descriptive text in the square brackets. This text i
 
 </details>
 
+##this is the image
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 <!--
   <<< Author notes: Step 3 >>>
   Start this step by acknowledging the previous step.
