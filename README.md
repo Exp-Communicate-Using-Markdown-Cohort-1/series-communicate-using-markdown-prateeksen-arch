@@ -41,8 +41,12 @@ _Welcome to "Communicate using Markdown"! :wave:_
 #### How it looks
 
 # This is an `<h1>` header, which is the largest
+# this is also a h1 tag in md
 ## This is an `<h2>` header
+## this is h2
+
 ###### This is an `<h6>` header, which is the smallest
+###### this is h6 tag in md
 
 ### :keyboard: Activity: Edit your file with headers
 
